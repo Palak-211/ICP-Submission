@@ -18,7 +18,7 @@ LeetCode Solution Link: https://leetcode.com/problems/make-the-string-great/subm
 
 ## 3) Sum of Subarray Minimums (907)
 
-LeetCode Solution Link: https://leetcode.com/problems/sum-of-subarray-minimums/description/
+LeetCode Solution Link: https://leetcode.com/problems/sum-of-subarray-minimums/submissions/1890717125/
 
 ---
 
